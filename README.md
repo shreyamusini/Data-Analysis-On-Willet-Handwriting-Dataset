@@ -7,7 +7,8 @@
 
   The t-SNE analysis of the neural data and the labels of each letter showed some letters clustered very closely together. Through these clusters, we wondered if the characters were being correctly predicted because certain letters shared the same strokes to write. We investigated this question through the use of KMeans Clustering to see if the clusters correctly grouped each character into its own cluster and compared it with an LDA Classifier. 
 
-Packages/Technologies/Methods Used:
+
+# Packages/Technologies/Methods Used:
 - KMeans
 - LDA
 - Matplotlib
@@ -16,3 +17,4 @@ Packages/Technologies/Methods Used:
 - Seaborn
 - Sklearn
 - Coded in Python
+- Scipy
