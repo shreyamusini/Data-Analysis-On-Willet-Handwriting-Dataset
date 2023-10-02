@@ -1,4 +1,4 @@
-# Data-Analysis-On-Willet-Handwriting-Dataset
+# Analysis-On-Willet-Handwriting-Dataset
   This project analyzes the accuracy of the classification of the letters of the English Alphabet from the neural data collected in the paper:  High-performance brain-to-text communication via handwriting.
 
   The Willett Handwriting Dataset contains neural data from a method that translates the thought of writing a certain character to text. This method was configured through a set of experiments done with individuals with impaired movement. The specific data used for this analysis is from a patient who was asked to imagine writing a letter or sentence. The neural data from these trials was later used to predict the letters/sentences that the patient thought about.
